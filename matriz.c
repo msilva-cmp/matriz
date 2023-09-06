@@ -7,5 +7,6 @@
 int main()
 {
     p("Hola mundo");
+    p("Chau mundo");
     return 0;
 }
